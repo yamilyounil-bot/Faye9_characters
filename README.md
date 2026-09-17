@@ -10,10 +10,7 @@ Cartoon character pack — vector-style avatars with full-body avatars, circular
 | 🇹🇳 Joe | Joe in a green Djerbian blouza / Tunisian thobe with babouche slippers | `joe/` |
 | 🏛️ Hannibal Barca | The Carthaginian general in bronze armor, crested helmet and purple cloak | `hannibal-barca/` |
 | 🩺 Wassim | Young anesthesiologist in a white lab coat, teal scrubs and stethoscope | `wassim/` |
-<<<<<<< Updated upstream
-=======
 | 🧢 Elva | Stylish, nonchalant guy in a black Yankees cap, white shirt and black tee | `elva/` |
->>>>>>> Stashed changes
 
 ## Layout per character
 - `avatar-transparent.png` — full-body 9:16 avatar, transparent background
