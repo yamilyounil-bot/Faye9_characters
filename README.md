@@ -9,6 +9,7 @@ Cartoon character pack — vector-style avatars with full-body avatars, circular
 | 🐱 LuffyCat | Fluffy orange tabby kid in Monkey D. Luffy's One Piece outfit (hat, orange shirt, denim shorts, sandals) | `luffycat/` |
 | 🇹🇳 Joe | Joe in a green Djerbian blouza / Tunisian thobe with babouche slippers | `joe/` |
 | 🏛️ Hannibal Barca | The Carthaginian general in bronze armor, crested helmet and purple cloak | `hannibal-barca/` |
+| 🩺 Wassim | Young anesthesiologist in a white lab coat, teal scrubs and stethoscope | `wassim/` |
 
 ## Layout per character
 - `avatar-transparent.png` — full-body 9:16 avatar, transparent background
