@@ -12,6 +12,7 @@ Cartoon character pack — vector-style avatars with full-body avatars, circular
 | 🩺 Wassim | Young anesthesiologist in a white lab coat, teal scrubs and stethoscope | `wassim/` |
 | 🧢 Elva | Stylish, nonchalant guy in a black Yankees cap, white shirt and black tee | `elva/` |
 | 🟡 7afouzli9 (الحافوزليق) | Grinning armless goblin creature — huge head, bat ears, furry legs, big feet | `7afouzli9/` |
+| 🧥 Joe (Youssef) — Hoodie | The app developer's namesake in a black hoodie and jeans | `joe-hoodie/` |
 
 ## Layout per character
 - `avatar-transparent.png` — full-body 9:16 avatar, transparent background
