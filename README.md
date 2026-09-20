@@ -7,7 +7,7 @@ Cartoon character pack — vector-style avatars with full-body avatars, circular
 | Character | Description | Folder |
 |---|---|---|
 | 🐱 LuffyCat | Fluffy orange tabby kid in Monkey D. Luffy's One Piece outfit (hat, orange shirt, denim shorts, sandals) | `luffycat/` |
-| 🇹🇳 Joe | Joe in a green Djerbian blouza / Tunisian thobe with babouche slippers | `joe/` |
+| 🇹🇳 Layto | Layto in a green Djerbian blouza / Tunisian thobe with babouche slippers | `layto/` |
 | 🏛️ Hannibal Barca | The Carthaginian general in bronze armor, crested helmet and purple cloak | `hannibal-barca/` |
 | 🩺 Wassim | Young anesthesiologist in a white lab coat, teal scrubs and stethoscope | `wassim/` |
 | 🧢 Elva | Stylish, nonchalant guy in a black Yankees cap, white shirt and black tee | `elva/` |
@@ -25,7 +25,7 @@ Cartoon character pack — vector-style avatars with full-body avatars, circular
 - `poses/06-floss.png` — floss dance
 
 LuffyCat extras: `luffycat/main-avatar.png` (original white-background 9:16 render).
-Joe extras: `joe/avatar-hoodie.png` (original hoodie avatar, transparent).
+Layto extras: `layto/avatar-hoodie.png` (original hoodie avatar, transparent).
 
 ## Style
 Flat / soft-shaded vector cartoon caricatures with thick clean outlines. Sticker-ready: every pose is a standalone transparent PNG.
